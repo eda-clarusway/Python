@@ -10,7 +10,6 @@ for i in range(rows, 0 , -1):
 
 
 
-
 for number in range(3,100):
   counter = 0
   for i in range(2,int(number/2)+1):
@@ -20,8 +19,3 @@ for number in range(3,100):
   if counter == 0:
         print(number,end = " ")
       
-
-
-
-
-
